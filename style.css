@@ -1,0 +1,97 @@
+.grogu{
+    position: relative;
+    left: 92px;
+    top: 8px;
+  }
+  
+  .home{
+    position: absolute;
+    width: 80.9px;
+    height: 8.52px;
+    left: 853.02px;
+    top: 40.55px;
+  
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    
+    color: #FFFFFF;
+  }
+  
+  .about{
+    position: absolute;
+    width: 80.9px;
+    height: 28.1px;
+    left: 952.66px;
+    top: 40.55px;
+  
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+   
+  color: #FFFFFF;
+  }
+  
+  .grogu2{
+    position: absolute;
+    width: 84.31px;
+    height: 28.1px;
+    left: 1069.33px;
+    top: 38px;
+  
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    color: #FFFFFF;
+  }
+  
+  .episodes{
+    position: absolute;
+    width: 114.97px;
+    height: 28.1px;
+    left: 1179.19px;
+    top: 38px;
+  
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    color: #FFFFFF;
+  }
+  
+  .linea{
+    border-top: 1px solid white;
+    height: 2px;
+    max-width: 200px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+  }
+  
+  .mandalorian{
+    position: absolute;
+    left: 120px;
+    top: 375px;
+  }
+  
+  .boton1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 141.37px;
+    height: 51.95px;
+    left: 895px;
+    top: 535px;
+    border: 0.85162px solid #FFFFFF;
+    border-radius: 6.81296px;
+  }
+  
+  .boton_play{
+    position: absolute;
+    width: 78.35px;
+    height: 35.77px;
+    left: 927px;
+    top: 545px;
+  }
+  
