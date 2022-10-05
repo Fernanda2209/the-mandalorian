@@ -1,16 +1,17 @@
 /* HOME SECTION*/
 
-.grogu{
+  .grogu{
     position: relative;
-    left: 92px;
+    left: 70px;
     top: 8px;
+    
   }
   
   .home{
     position: absolute;
     width: 80.9px;
     height: 8.52px;
-    left: 853.02px;
+    left: 790.02px;
     top: 40.55px;
   
     font-family: 'IM FELL French Canon SC';
@@ -19,13 +20,14 @@
     font-size: 21px;
     
     color: #FFFFFF;
+    
   }
   
   .about{
     position: absolute;
     width: 80.9px;
     height: 28.1px;
-    left: 952.66px;
+    left: 890.66px;
     top: 40.55px;
   
     font-family: 'IM FELL French Canon SC';
@@ -40,7 +42,7 @@
     position: absolute;
     width: 84.31px;
     height: 28.1px;
-    left: 1069.33px;
+    left: 990.33px;
     top: 38px;
   
     font-family: 'IM FELL French Canon SC';
@@ -54,7 +56,7 @@
     position: absolute;
     width: 114.97px;
     height: 28.1px;
-    left: 1179.19px;
+    left: 1090.19px;
     top: 38px;
   
     font-family: 'IM FELL French Canon SC';
@@ -103,7 +105,7 @@
   .about-title{
   position: absolute;
   left: 95.97px;
-  top: 790px;
+  top: 820px;
  }
 
  .style-about{
@@ -121,22 +123,36 @@
     color: #FFFFFF;    
  }
 
+ .about-img{
+    position: absolute;
+    left: 830.86px;
+    top: 824px;
+    z-index: 999;
+}
+
  .circulo{
   position: absolute;
-  width: 580px;
-  height: 565px;
-  left: 756.97px;
-  top: 841.9px;
+  width: 560px;
+  height: 545px;
+  left: 730.97px;
+  top: 815.9px;
   border-radius: 50%;
   background: rgba(159, 127, 46, 0.36);
+  z-index:1;
  }
+
+ .about-img{
+    position: absolute;
+    left: 830.86px;
+    top: 824px;
+}
 
  .boton2{
   position: absolute;
   width: 237.41px;
   height: 51.41px;
   left: 97.97px;
-  top: 1335px;
+  top: 1280px;
   border: 0.934688px solid #FFFFFF;
   border-radius: 7.47751px;
  }
@@ -146,7 +162,7 @@
   width: 158.9px;
   height: 25.24px;
   left: 119.97px;
-  top: 1345px;
+  top: 1293px;
 
  }
 
@@ -154,7 +170,7 @@
 
  .img-grogu{
   position: absolute;
-  left: 983px;
+  left: 970px;
   top: 1563px;
  }
 
@@ -162,7 +178,7 @@
   position: absolute;
   width: 481.73px;
   height: 114.7px;
-  left: 823px;
+  left: 790px;
   top: 1725px;
 
   font-family: 'IM FELL French Canon SC';
@@ -179,7 +195,7 @@ color: #FFFFFF;
   position: absolute;
   width: 267.32px;
   height: 57.02px;
-  left: 1032px;
+  left: 1000px;
   top: 1982px;
   border: 0.934688px solid #FFFFFF;
   border-radius: 7.47751px;
@@ -189,10 +205,18 @@ color: #FFFFFF;
   position: absolute;
   width: 179.46px;
   height: 28.04px;
-  left: 1090px;
+  left: 1030px;
   top: 1997px;
 
  }
+
+ .IMG-GROGUSECTION{
+    position: absolute;
+    width: 748.36px;
+    height: 530px;
+    left: 0px;
+    top: 1515px;
+   }
 
  /* EPISODES SECTION*/
 
@@ -200,7 +224,7 @@ color: #FFFFFF;
   position: absolute;
   width: 352.6px;
   height: 88.72px;
-  left: 556.98px;
+  left: 450.98px;
   top: 2447.01px;
  }
 
@@ -208,7 +232,7 @@ color: #FFFFFF;
   position: absolute;
   width: 139.36px;
   height: 51.21px;
-  left: 658.56px;
+  left: 618.56px;
   top: 2581.33px;
   border: 0.839523px solid #FFFFFF;
   border-radius: 6.71619px;
@@ -218,9 +242,45 @@ color: #FFFFFF;
   position: absolute;
   width: 77.24px;
   height: 35.26px;
-  left: 689.62px;
+  left: 650px;
   top: 2589.73px;
  }
+
+ .episodes-img1{
+  position: absolute;
+  width:400px;
+  height: 250px;
+  left: 0px;
+  top: 2155.93px;
+   }
+
+ .episodes-img2{
+  position: absolute;
+  width:400px;
+  height: 250px;
+  left: 500px;
+  top: 2155.93px;
+  }
+  
+
+ .episodes-img3{
+  position: absolute;
+  width:400px;
+  height: 250px;
+  left: 945px;
+  top: 2155.93px;
+     }
+
+ 
+ .episodes-titulo{
+    position: absolute;
+    width: 352.6px;
+    height: 88.72px;
+    left: 526.98px;
+    top: 2447.01px;
+   }
+
+  
 
   /* FOOTER*/
 
@@ -228,7 +288,7 @@ color: #FFFFFF;
   position: absolute;
   width: 682.53px;
   height: 28.54px;
-  left: 385px;
+  left: 330px;
   top: 2795.14px;
 
   font-family: 'Inter';
@@ -246,7 +306,7 @@ color: #FFFFFF;
   position: absolute;
   width: 27px;
   height: 25px;
-  left: 713px;
+  left: 660px;
   top: 2748px;
  }
 
@@ -254,15 +314,15 @@ color: #FFFFFF;
   position: absolute;
   width: 33px;
   height: 31px;
-  left: 786px;
+  left: 730px;
   top: 2745px;
 
  }
 
  .instagram{
   position: absolute;
-  width: 30px;
+  width: 33px;
   height: 31px;
-  left: 636px;
+  left: 570px;
   top: 2745px;
  }
