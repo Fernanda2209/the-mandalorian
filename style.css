@@ -95,3 +95,75 @@
     top: 545px;
   }
   
+  .about-title{
+  position: absolute;
+  left: 95.97px;
+  top: 790px;
+ }
+
+ .style-about{
+    position: absolute;
+    width: 585px;
+    height: 326.91px;
+    left: 92.97px;
+    top: 978px;
+    
+    font-family: 'IM FELL French Canon SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.1305px;
+    line-height: 25px;
+    color: #FFFFFF;    
+ }
+
+ .circulo{
+  position: absolute;
+  width: 580px;
+  height: 565px;
+  left: 756.97px;
+  top: 841.9px;
+  border-radius: 50%;
+  background: rgba(159, 127, 46, 0.36);
+ }
+
+ .boton2{
+  position: absolute;
+  width: 237.41px;
+  height: 51.41px;
+  left: 97.97px;
+  top: 1335px;
+  border: 0.934688px solid #FFFFFF;
+  border-radius: 7.47751px;
+ }
+
+ .read-more{
+  position: absolute;
+  width: 158.9px;
+  height: 25.24px;
+  left: 119.97px;
+  top: 1345px;
+
+ }
+
+ .img-grogu{
+  position: absolute;
+  left: 983px;
+  top: 1563px;
+ }
+
+ .style-grogutext{
+  position: absolute;
+  width: 481.73px;
+  height: 114.7px;
+  left: 823px;
+  top: 1725px;
+
+  font-family: 'IM FELL French Canon SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+
+color: #FFFFFF;
+ }
