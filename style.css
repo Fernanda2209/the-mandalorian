@@ -186,3 +186,47 @@ color: #FFFFFF;
   top: 1997px;
 
  }
+
+ .episodes-titulo{
+  position: absolute;
+  width: 352.6px;
+  height: 88.72px;
+  left: 556.98px;
+  top: 2447.01px;
+ }
+
+ .boton4{
+  position: absolute;
+  width: 139.36px;
+  height: 51.21px;
+  left: 658.56px;
+  top: 2581.33px;
+  border: 0.839523px solid #FFFFFF;
+  border-radius: 6.71619px;
+ }
+
+ .play-boton4{
+  position: absolute;
+  width: 77.24px;
+  height: 35.26px;
+  left: 689.62px;
+  top: 2589.73px;
+ }
+
+ .footer{
+  position: absolute;
+  width: 682.53px;
+  height: 28.54px;
+  left: 385px;
+  top: 2795.14px;
+
+  font-family: 'Inter';
+  font-style: italic;
+  font-weight: 662;
+  font-size: 20.9881px;
+  line-height: 25px;
+  text-align: center;
+
+  color: #FFFFFF;
+  font-variation-settings: 'slnt' -10;
+ }
