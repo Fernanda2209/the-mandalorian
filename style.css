@@ -1,3 +1,5 @@
+/* HOME SECTION*/
+
 .grogu{
     position: relative;
     left: 92px;
@@ -63,6 +65,7 @@
   }
   
   .linea{
+    position: absolute;
     border-top: 1px solid white;
     height: 2px;
     max-width: 200px;
@@ -94,6 +97,8 @@
     left: 927px;
     top: 545px;
   }
+
+  /* ABOUT SECTION*/
   
   .about-title{
   position: absolute;
@@ -145,6 +150,8 @@
 
  }
 
+ /* GROGU SECTION*/
+
  .img-grogu{
   position: absolute;
   left: 983px;
@@ -187,6 +194,8 @@ color: #FFFFFF;
 
  }
 
+ /* EPISODES SECTION*/
+
  .episodes-titulo{
   position: absolute;
   width: 352.6px;
@@ -213,6 +222,8 @@ color: #FFFFFF;
   top: 2589.73px;
  }
 
+  /* FOOTER*/
+
  .footer{
   position: absolute;
   width: 682.53px;
@@ -229,4 +240,29 @@ color: #FFFFFF;
 
   color: #FFFFFF;
   font-variation-settings: 'slnt' -10;
+ }
+
+ .facebook{
+  position: absolute;
+  width: 27px;
+  height: 25px;
+  left: 713px;
+  top: 2748px;
+ }
+
+ .linkedin{
+  position: absolute;
+  width: 33px;
+  height: 31px;
+  left: 786px;
+  top: 2745px;
+
+ }
+
+ .instagram{
+  position: absolute;
+  width: 30px;
+  height: 31px;
+  left: 636px;
+  top: 2745px;
  }
