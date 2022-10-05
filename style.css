@@ -167,3 +167,22 @@
 
 color: #FFFFFF;
  }
+
+ .boton3{
+  position: absolute;
+  width: 267.32px;
+  height: 57.02px;
+  left: 1032px;
+  top: 1982px;
+  border: 0.934688px solid #FFFFFF;
+  border-radius: 7.47751px;
+ }
+
+ .read-boton3{
+  position: absolute;
+  width: 179.46px;
+  height: 28.04px;
+  left: 1090px;
+  top: 1997px;
+
+ }
