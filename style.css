@@ -173,6 +173,46 @@
   left: 970px;
   top: 1563px;
  }
+ 
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+ #contenedor{
+    position: absolute;
+    width: 500px;
+    margin: 60px;
+    overflow: hidden;
+    left: 0px;
+    top: 1515px;
+ }
+ 
+ #contenedor ul {
+    width: 100px;
+    display: flex;
+
+    animation: slide 20s infinite alternate;
+    top: 1515px;
+    padding: 0px;
+    margin: 0px;
+ }
+
+ @keyframes slide {
+    0% {margin-left: 0px;}
+    20% {margin-left: 0px;}
+
+    25% {margin-left: -700px;}
+    45% {margin-left: -700px;}
+
+    50% {margin-left: -800px;}
+    70% {margin-left: -1200px;}
+
+    75% {margin-left: -1800px;}
+    100% {margin-left: -1800px;}
+
+ }
+
 
  .style-grogutext{
   position: absolute;
@@ -211,9 +251,6 @@ color: #FFFFFF;
  }
 
  .IMG-GROGUSECTION{
-    position: absolute;
-    width: 748.36px;
-    height: 530px;
     left: 0px;
     top: 1515px;
    }
