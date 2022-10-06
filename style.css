@@ -182,18 +182,18 @@
  #contenedor{
     position: absolute;
     width: 500px;
-    margin: 60px;
+    margin: 90px;
     overflow: hidden;
     left: 0px;
-    top: 1515px;
+    top: 1400px;
  }
  
  #contenedor ul {
-    width: 100px;
+    width: 200px;
     display: flex;
 
     animation: slide 20s infinite alternate;
-    top: 1515px;
+    
     padding: 0px;
     margin: 0px;
  }
